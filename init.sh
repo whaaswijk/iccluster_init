@@ -2,6 +2,6 @@
 apt update
 apt -y upgrade
 apt install -y gcc g++ cmake git mercurial automake bash-completion vim
-apt install -y libreadline-dev zlib1g-dev libboost-all-dev
+apt install -y libreadline-dev zlib1g-dev libboost-all-dev screen
 
 
